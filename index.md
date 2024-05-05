@@ -10,3 +10,7 @@
 ``` C++
 string myName="My name is Talha Bin Shahid.";
 ```
+- [x] Completed first step
+- [x] Completed second step
+- [x] Completed third step
+- [ ] Comleted fourth Step
